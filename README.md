@@ -3,7 +3,7 @@
 Set predefined date ranges with dropdown.
 
 ## Demo
-![](demo.gif)
+![](demogif.gif)
 
 ## Getting Started
 
