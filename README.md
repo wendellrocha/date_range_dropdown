@@ -1,6 +1,6 @@
 # Date Range Dropdown
 
-A new Flutter package project.
+Set predefined date ranges with dropdown.
 
 ## Demo
 ![](demo.gif)
@@ -12,7 +12,7 @@ A new Flutter package project.
 Add to `pubspec.yaml` in `dependencies`
 
 ```
-    date_range_picker: ^1.0.0
+date_range_picker: ^1.0.0
 ```
 
 ### Usage
