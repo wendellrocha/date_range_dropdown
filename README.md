@@ -1,4 +1,6 @@
 # Date Range Dropdown
+[![Pub](https://img.shields.io/pub/v/date_range_dropdown?include_prereleases)](https://pub.dev/packages/date_range_dropdown)
+
 
 Set predefined date ranges with dropdown.
 

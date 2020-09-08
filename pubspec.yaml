@@ -1,7 +1,6 @@
 name: date_range_dropdown
 description: Set predefined date ranges with dropdown
 version: 1.0.0
-author: Wendell Rocha
 homepage: https://github.com/wendellrocha/date_range_dropdown
 
 environment:
