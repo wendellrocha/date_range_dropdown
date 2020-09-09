@@ -14,7 +14,7 @@ Set predefined date ranges with dropdown.
 Add to `pubspec.yaml` in `dependencies`
 
 ```
-date_range_dropdown: ^1.0.0
+date_range_dropdown: ^1.0.1
 ```
 
 ### Usage
