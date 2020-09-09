@@ -112,6 +112,7 @@ class _DateRangeDropdownState extends State<DateRangeDropdown> {
             },
     );
     if (picked != null) {
+      _selected = 'Custom';
       widget.callback(picked);
     }
   }
